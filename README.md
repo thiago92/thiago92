@@ -11,3 +11,11 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,mongodb,docker,azure,vscode"" alt="My Skills"/>
 </a>
+
+### Redes Sociais
+<a href="https://www.instagram.com/thiago.dsouza1992/">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/thiago-silva-souza-27557b1a4/">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
