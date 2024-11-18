@@ -27,4 +27,4 @@
 
 
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeffersonnjunior/jeffersonnjunior/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thiago92/thiago92/output/github-contribution-grid-snake.svg" />
