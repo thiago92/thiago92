@@ -9,5 +9,5 @@
 
 ### Minhas Ferramentas
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,sql,docker,azure,vscode"" alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=git,mongodb,docker,azure,vscode"" alt="My Skills"/>
 </a>
