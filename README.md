@@ -4,5 +4,10 @@
 
 ### Minhas Habilidades
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,cs,dotnet,docker,ts,angular,react,next"" alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=py,cs,dotnet,ts,angular,react,next"" alt="My Skills"/>
+</a>
+
+### Minhas Ferramentas
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,postgres,dbeaver,docker,azure,vscode"" alt="My Skills"/>
 </a>
